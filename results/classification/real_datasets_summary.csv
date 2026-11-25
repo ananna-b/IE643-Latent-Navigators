@@ -1,0 +1,3 @@
+dataset,test_images,adapt_images,annotated_classes,person,car,chair,bottle,dog,bicycle,motorbike,bus,boat,cat
+rtts,3674,500,"person, car, bicycle, motorbike, bus",2327,2542,0,0,0,351,546,1028,0,0
+dawn,873,154,"person, car, bicycle, motorbike, bus",179,858,0,0,0,19,39,87,0,0

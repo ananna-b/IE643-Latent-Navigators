@@ -1,0 +1,42 @@
+{
+  "seed": 0,
+  "tune_n": 1000,
+  "imgsz": 640,
+  "batch": 16,
+  "epochs": 8,
+  "freeze": 10,
+  "lr0": 0.0002,
+  "lrf": 0.2,
+  "warmup_epochs": 1.0,
+  "num_workers": 2,
+  "clean_guard_drop": 0.005,
+  "syn_n": 500,
+  "selection_n": 1000,
+  "do_train": true,
+  "run_arms": [
+    "uniform_views",
+    "minority_sampling",
+    "minority_lowlight"
+  ],
+  "syn_types": [
+    "lowlight",
+    "haze",
+    "rain",
+    "snow",
+    "sandstorm"
+  ],
+  "syn_severities": [
+    1,
+    2,
+    3
+  ],
+  "minority_weight": 5.0,
+  "minority_lowlight_probability": 0.7,
+  "max_side_train": 1000,
+  "source_voc": null,
+  "auto_download_voc": true,
+  "rtts_source": "/content/drive/MyDrive/datasets/RTTS.zip",
+  "dawn_source": "/content/drive/MyDrive/datasets/DAWN.zip",
+  "exdark_source": null,
+  "evaluate_real": true
+}

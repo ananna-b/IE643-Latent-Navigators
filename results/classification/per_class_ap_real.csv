@@ -1,0 +1,11 @@
+eval_set,cls,baseline,combined,combined +BN
+dawn_test,bicycle,0.048,0.149,0.165
+dawn_test,bus,0.134,0.17,0.169
+dawn_test,car,0.992,0.993,0.988
+dawn_test,motorbike,0.072,0.094,0.056
+dawn_test,person,0.603,0.617,0.446
+rtts_test,bicycle,0.449,0.506,0.4
+rtts_test,bus,0.378,0.498,0.446
+rtts_test,car,0.962,0.965,0.901
+rtts_test,motorbike,0.365,0.427,0.358
+rtts_test,person,0.96,0.951,0.894

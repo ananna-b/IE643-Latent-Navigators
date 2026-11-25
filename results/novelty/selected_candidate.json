@@ -1,0 +1,8 @@
+{
+  "candidate": "minority_lowlight_best",
+  "checkpoint": "/content/drive/MyDrive/IE643_LatentNavigators/novelty_2026/yolo_runs/minority_lowlight/weights/best.pt",
+  "exploratory": "minority_lowlight_best",
+  "clean_guard_drop": 0.005,
+  "selection_criterion": "strict positive clean and shifted tuning mAP50 deltas; tie break by shifted weighted score",
+  "selected_from": "VOC tune only"
+}

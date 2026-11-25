@@ -1,0 +1,3 @@
+config,voc_test,syn avg,rtts_test,dawn_test,dawn_test_fog,dawn_test_rain,dawn_test_sand,dawn_test_snow
+baseline,0.664,0.368,0.329,0.14,0.159,0.26,0.118,0.585
+combined,0.649,0.479,0.428,0.2,0.303,0.257,0.193,0.546

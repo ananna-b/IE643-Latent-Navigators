@@ -1,0 +1,4 @@
+arm,images,clean,degraded,minority_degraded,lowlight_degraded
+uniform_views,2352,1176,1176,143,241
+minority_sampling,2352,1176,1176,502,243
+minority_lowlight,2352,1176,1176,502,526
