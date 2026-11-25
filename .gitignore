@@ -1,0 +1,18 @@
+# Colab, Python, notebook and experiment-generated files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+*.log
+runs/
+yolo_runs/
+wandb/
+results/raw_datasets/
+data/raw/
+# Model weights need separate provenance confirmation and appropriate distribution policy
+*.pt
+*.pth
+*.ckpt

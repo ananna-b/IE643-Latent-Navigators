@@ -1,0 +1,16 @@
+# Practical dependencies used by the supplied research notebooks.
+# Versions were not pinned in the original project; install a compatible CUDA/PyTorch stack first.
+numpy
+pandas
+scipy
+matplotlib
+opencv-python-headless
+Pillow
+PyYAML
+tqdm
+scikit-learn
+torch
+torchvision
+ultralytics
+# The original notebook has an optional Gradio demo cell.
+gradio

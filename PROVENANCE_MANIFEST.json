@@ -1,0 +1,21 @@
+{
+  "project_title": "Classification in Class-Imbalanced Extremely Shifted Images",
+  "author": "Ananna Biswas",
+  "repository": "https://github.com/ananna-b/IE643-Latent-Navigators",
+  "source_notebooks": {
+    "notebooks/01_classification_and_detection.ipynb": "/mnt/data/IE643_LatentNavigators (2).ipynb (code preserved, outputs stripped)",
+    "notebooks/02_novelty_clean_anchored_yolov8n.ipynb": "/mnt/data/IE643_novelty_experiment/IE643_Novelty_Clean_And_Robust_YOLOv8n_FIXED_v2.ipynb (code preserved, outputs stripped)"
+  },
+  "novelty_results_source": "results-20261122T175840Z-1-001.zip /results/",
+  "poster_source": "LatentNavigators_IE643_Poster_V11_Overleaf.zip (source) and LatentNavigators_IE643_Poster_V11.pdf",
+  "report_source": [
+    "Project_Report (1).pdf",
+    "LatentNavigators_IE643_NoveltyAssessment_article.pdf"
+  ],
+  "excluded": [
+    "full image datasets",
+    "selected novelty checkpoint",
+    "original YOLO baseline and combined checkpoints (no verified files here)"
+  ],
+  "notes": "Research notebook code cells preserved, execution output metadata cleared for GitHub. New upload instructions, README, requirements and results-reader utility are supplementary documentation."
+}
